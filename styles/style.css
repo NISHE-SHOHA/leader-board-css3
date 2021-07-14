@@ -101,7 +101,7 @@ hr{
     color: #AEAEAE;
 } 
 .course-duration{
-    background-color: lightpink;
+    background-color: rgba(255, 182, 193, 0.5);
     border-radius: 15px;
     padding: 5px; 
 }
@@ -109,6 +109,9 @@ hr{
     color: palevioletred;
     border-radius: 15px;
     padding: 5px; 
+}
+.time-info{
+    color: palevioletred;
 }
 /*----------------
  Media Queries
